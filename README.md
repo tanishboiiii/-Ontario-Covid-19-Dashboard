@@ -6,11 +6,14 @@ A work in progress Covid-19 Dashboard for the province of Ontario.
 
 - The Ontario Covid-19 Dashboard module deals with actually displaying the required data using streamlit on the actual website
 
-![](/Images/Website%20UI.PNG)
-
 #### Goals and Other Features I Hope to Implement
 - Stasistics for deaths, and recoveries
 - Map with colour coding by region of lock down zone
 - Sidebar with all the different regions in Ontario, with each region having further information about stastics
 - Data resources page
 - About me page
+
+
+![](/Images/Website%20UI.PNG)
+
+

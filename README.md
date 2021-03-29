@@ -6,4 +6,4 @@ A work in progress Covid-19 Dashboard for the province of Ontario.
 
 - The Ontario Covid-19 Dashboard module deals with actually displaying the required data using streamlit on the actual website
 
-![](/Images/Website UI.PNG)
+![](/Images/Website%20UI.PNG)

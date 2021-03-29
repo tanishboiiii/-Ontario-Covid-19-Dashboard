@@ -9,7 +9,7 @@ A work in progress Covid-19 Dashboard for the province of Ontario.
 #### Goals and Other Features I Hope to Implement
 - Stasistics for deaths, and recoveries
 - Map with colour coding by region of lock down zone
-- Sidebar with all the different regions in Ontario, with each region having further information about stastics
+- Sidebar with all the different regions in Ontario, with each region having further information about statistics
 - Data resources page
 - About me page
 
